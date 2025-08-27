@@ -18,5 +18,7 @@ Using the hide function -> Light turns on when receiving and records -> Indicato
 
 <img width="1131" height="448" alt="image" src="https://github.com/user-attachments/assets/e3009149-439c-47ce-89ba-87dbe807c91a" />
 
+<img width="1082" height="435" alt="image" src="https://github.com/user-attachments/assets/0868867c-18d0-40a6-b30a-0d8963454d7d" />
+
 The red light turns on.
 *Getting back on it for looks -> KO6HTC 73
