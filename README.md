@@ -15,5 +15,5 @@ Useful is the VB 16 Channel Cable (VBCABLE) https://vb-audio.com/Cable/
 
 Using the hide function ->
 
-<img width="1174" height="465" alt="image" src="https://github.com/user-attachments/assets/d78feda5-5e8d-47bb-9ff8-a5d09ff1d10a" />
 
+<img width="1174" height="465" alt="cool" src="https://github.com/user-attachments/assets/40b3ac63-7e54-4304-af34-4543d752dbef" />
