@@ -8,6 +8,7 @@ $cat = $dog | Where-Object {$_.name-match "AIOC*"}
 Set-AudioDevice -Index $cat.index #-Playback
 
 #If just so happen to know which COM to use -> 
+#I'll make this better but for now... 
 $port = New-Object System.IO.Ports.SerialPort COM5,9600,None,8,one
 $port.open()
 
@@ -23,23 +24,25 @@ $bust = 0
  {
  
 
- if($bust -eq 0 )
- {
-    $speaker.Speak($firstLine)
-    $bust = 1
- }
- if($bust -eq 1 )
- {
+  if($bust -eq 0 )
+  {
+     $speaker.Speak($firstLine)
+     $bust = 1
+  }
+  if($bust -eq 1 )
+  {
+  
+      $dog = [System.Console]::ReadLine()
  
-     $dog = [System.Console]::ReadLine()
-
-     $port.DtrEnable = $true
-
-     $speaker.speak($dog)
-
-     $port.DtrEnable = $false
-
+      $port.DtrEnable = $true
+      #add your own pause
+      #Start-Sleep -Milliseconds 200
+      $speaker.speak($dog)
  
- }
+      $port.DtrEnable = $false
+ 
+  
+  }
+
 
  }
