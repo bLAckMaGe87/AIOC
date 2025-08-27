@@ -8,3 +8,8 @@ Also included are a hotkey and hold to PTT button set with indicator. A TTS(Text
 *Getting back on it for looks -> KO6HTC 73
 
 <img width="1334" height="838" alt="DEMSpttsamp" src="https://github.com/user-attachments/assets/7184b03b-1ef0-4465-8a5a-e724dbe5bdf5" />
+
+Using the hide function ->
+
+<img width="1174" height="465" alt="image" src="https://github.com/user-attachments/assets/d78feda5-5e8d-47bb-9ff8-a5d09ff1d10a" />
+
