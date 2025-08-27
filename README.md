@@ -9,11 +9,14 @@ Also included are a hotkey and hold to PTT button set with indicator. A TTS(Text
 [I got the ideas and basic code blocks from PTT-DTRmaster... I can't find the link]
 
 Useful is the VB 16 Channel Cable (VBCABLE) https://vb-audio.com/Cable/
-*Getting back on it for looks -> KO6HTC 73
 
 <img width="1334" height="838" alt="DEMSpttsamp" src="https://github.com/user-attachments/assets/7184b03b-1ef0-4465-8a5a-e724dbe5bdf5" />
 
-Using the hide function ->
+Using the hide function -> Light turns on when receiving and records -> Indicators also display hotkey being used to PTT.
 
+ (CHANNEL MODE!)
 
-<img width="1174" height="465" alt="cool" src="https://github.com/user-attachments/assets/40b3ac63-7e54-4304-af34-4543d752dbef" />
+<img width="1131" height="448" alt="image" src="https://github.com/user-attachments/assets/e3009149-439c-47ce-89ba-87dbe807c91a" />
+
+The red light turns on.
+*Getting back on it for looks -> KO6HTC 73
