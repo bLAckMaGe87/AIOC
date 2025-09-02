@@ -22,3 +22,10 @@ Using the hide function -> Light turns on when receiving and records -> Indicato
 
 The red light turns on.
 *Getting back on it for looks -> KO6HTC 73
+
+*Updates on Progress
+-Put some playback, compile audio, and stash buttons on there. Added a repeater mode for if you have 2 AIOCs.
+ I had one, it broke, after a while I noticed that TX still works and will do. Now I have 2. It works with some clarity and ease. 
+
+<img width="1324" height="888" alt="image" src="https://github.com/user-attachments/assets/2b2de89e-a72b-492e-99db-643acb7b42b3" />
+
