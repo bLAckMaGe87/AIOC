@@ -29,3 +29,14 @@ The red light turns on.
 
 <img width="1324" height="888" alt="image" src="https://github.com/user-attachments/assets/2b2de89e-a72b-492e-99db-643acb7b42b3" />
 
+Ok so I have cleaned up some old code and moved most of the function handlers to the source code file so as to eliminate static variables while maintaining design.
+There's still static but there use is properly adjucated for. I am adding SoundFX to make it more fun and also to help with repeaters... such as playing a tone or sound before talking while holding using DTR. I am also constantly fool proofing the form so that there are no crashes or unintended transmissions. You can also play a sound at the end 
+of any transmission like a roger beep, and control your TXhold so that sound plays through. I want to be able to make it as safe as possible for a Ham to use. 
+
+Obviously I have no intention of keeping the sound bars and weird number meter there. I have started with FFT graphs and audio spectrum analysis and simplex usage. 
+
+<img width="1402" height="914" alt="image" src="https://github.com/user-attachments/assets/e63bc2d6-d27b-4a2d-824d-aa01e9fae04d" />
+
+
+
+
