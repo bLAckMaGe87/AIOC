@@ -35,7 +35,8 @@ of any transmission like a roger beep, and control your TXhold so that sound pla
 
 Obviously I have no intention of keeping the sound bars and weird number meter there. I have started with FFT graphs and audio spectrum analysis and simplex usage. 
 
-<img width="1402" height="914" alt="image" src="https://github.com/user-attachments/assets/e63bc2d6-d27b-4a2d-824d-aa01e9fae04d" />
+<img width="1278" height="904" alt="image" src="https://github.com/user-attachments/assets/ba5263ca-bef0-45c9-ba9e-bb99d9c5d00c" />
+
 
 
 
