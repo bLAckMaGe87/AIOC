@@ -19,4 +19,10 @@ https://learn.microsoft.com/en-us/dotnet/api/system.io.ports.serialport.dtrenabl
 https://github.com/zeryl/pttdtr.git
 
 *In time... I'll be able to share the actual codes but for now you should just use the link until I open source. 
+**Use this cable instead of any just any other charging or data cable...its for a good reason. The AIOC chip is commonly complained for shorting up and locking TX. This cable prevents 100% of that. I use it for my car, drone, and radio where cables normally are going to suck. 
+<img width="1399" height="390" alt="image" src="https://github.com/user-attachments/assets/94015bd8-1e23-47a4-947e-22f1ac554059" />
+https://na6d.com/products/aioc-ham-radio-all-in-one-cable?srsltid=AfmBOoqsr1RIs_mvuf_pO7ck2S7LGndAnW9x8EDzhIEa45i4rmS4z09v
+<img width="1128" height="540" alt="image" src="https://github.com/user-attachments/assets/9635b799-0940-4608-90be-0230aeaf3d59" />
+
+https://www.youtube.com/watch?v=wxR1r2-nrD0
 
