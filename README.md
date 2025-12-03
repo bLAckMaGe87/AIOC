@@ -12,7 +12,9 @@ Improvements as of Dec. 2025.
 
 Sorry the audio sucks I was trying to use a OBS and haven't figured out how to record without all the sounds at once! Lol I'll get it together...
 
+https://learn.microsoft.com/en-us/dotnet/api/system.io.ports.serialport.dtrenable?view=net-9.0-pp
 
+*I originally got the idea from this project and went ahead and made things work my own way.
 
 
 
