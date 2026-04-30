@@ -14,7 +14,9 @@ public static extern short GetAsyncKeyState(int vKey);
             $dog = Get-AudioDevice -List | Where-Object { $_.Type -eq "Playback" }
             $cat = $dog | Where-Object {$_.name-match "AIOC*"} #name your AIOC playback device i.e. "...{$_.name-match "KO6HTC*"}...that's my name.
             Set-AudioDevice -Index $cat.index #-Playback
-            $port = New-Object System.IO.Ports.SerialPort COM5,9600,None,8,one #check your com number per device
+
+            #update with algorithm for COM auto-selector (its in c# right now)
+            $port = New-Object System.IO.Ports.SerialPort COM5,9600,None,8,one #check your COM number per device
             $port.open()
             Write-Host "PORT OPENING" -BackgroundColor DarkRed -ForegroundColor Blue
             Write-Host "DEFAULT PRESS <Q> to HOLD TX, <SHIFT> TO PTT" -BackgroundColor DarkRed -ForegroundColor Blue
