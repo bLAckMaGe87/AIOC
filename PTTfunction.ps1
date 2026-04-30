@@ -12,7 +12,7 @@ public static extern short GetAsyncKeyState(int vKey);
 
             $synth = New-Object System.Speech.Synthesis.SpeechSynthesizer
             $dog = Get-AudioDevice -List | Where-Object { $_.Type -eq "Playback" }
-            $cat = $dog | Where-Object {$_.name-match "KO6HTC*"} #name your AIOC playback device i.e. "...{$_.name-match "AIOC*"}
+            $cat = $dog | Where-Object {$_.name-match "AIOC*"} #name your AIOC playback device i.e. "...{$_.name-match "KO6HTC*"}...that's my name.
             Set-AudioDevice -Index $cat.index #-Playback
             $port = New-Object System.IO.Ports.SerialPort COM5,9600,None,8,one #check your com number per device
             $port.open()
