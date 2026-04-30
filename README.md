@@ -26,3 +26,9 @@ https://na6d.com/products/aioc-ham-radio-all-in-one-cable?srsltid=AfmBOoqsr1RIs_
 
 https://www.youtube.com/watch?v=wxR1r2-nrD0
 
+___________________________________________________
+The PTTfunction
+https://github.com/bLAckMaGe87/AIOC/blob/main/PTTfunction.ps1
+<img width="1829" height="1023" alt="image" src="https://github.com/user-attachments/assets/2ed94fab-8545-4a67-a34f-53cebdd1a542" />
+
+
